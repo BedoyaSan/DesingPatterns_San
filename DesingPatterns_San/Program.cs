@@ -1,2 +1,4 @@
 ﻿// 
 
+Console.WriteLine("Hi");
+
