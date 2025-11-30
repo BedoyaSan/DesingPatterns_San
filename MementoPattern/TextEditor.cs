@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DesingPatterns_San
+namespace MementoPattern
 {
     public class TextEditor
     {
